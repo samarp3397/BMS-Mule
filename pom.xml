@@ -35,7 +35,7 @@
       <username>${PLATFORM_USERNAME}</username>
       <password>${PLATFORM_PASSWORD}</password>
       <applicationName>hello-world-sg11012022</applicationName>
-      <environment>Dev</environment>
+      <environment>Sandbox</environment>
       <workers>1</workers>
       <workerType>MICRO</workerType>
       <objectStoreV2>true</objectStoreV2>
